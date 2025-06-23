@@ -23,3 +23,10 @@ A running chronicle of what I'm working on, learning, and deciding as I build my
 - Using PaperMod theme; added config and early folder structure
 - Pinned main repos to GitHub profile to align public brand
 - Asked Copilot to keep me accountable for logging progress
+
+## 2025-06-23 - About Page + ZTM Mentorship
+
+- Drafted first version of "About Me" page for Hugo site
+- Integrated ZTM mentorship into bio with links to [zerotomastery.io](https://zerotomastery.io).
+- Updated tone and structure to better reflect voice, experience, and consulting focus.
+- Planning to propagate this info into `README.md` and future "Hire Me"/"Services" section.
