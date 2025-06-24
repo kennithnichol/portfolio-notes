@@ -32,6 +32,13 @@ A running chronicle of what I'm working on, learning, and deciding as I build my
 - Site is live at https://kennithnichol.netlify.app/
 - Prepared for using `kennithnichol.com` as custom domain w/ HTTPS
 
+## 2025-06-23 - About Page + ZTM Mentorship
+
+- Drafted first version of "About Me" page for Hugo site
+- Integrated ZTM mentorship into bio with links to [zerotomastery.io](https://zerotomastery.io).
+- Updated tone and structure to better reflect voice, experience, and consulting focus.
+- Planning to propagate this info into `README.md` and future "Hire Me"/"Services" section.
+
 ## 2025-06-24 - Portfolio Site Progress
 
 - Refined homepage content using `_index.md`
@@ -39,4 +46,3 @@ A running chronicle of what I'm working on, learning, and deciding as I build my
 - Verified site structure and nav behaviour on Netlify
 - Added `.gitignore` to ignore `public/` and other build artifacts
 - Switched domain over to `kennithnichol.com`, DNS has propagated.
-
