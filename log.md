@@ -23,3 +23,20 @@ A running chronicle of what I'm working on, learning, and deciding as I build my
 - Using PaperMod theme; added config and early folder structure
 - Pinned main repos to GitHub profile to align public brand
 - Asked Copilot to keep me accountable for logging progress
+
+## 2025-06-23 - Live with Netlify
+
+- Set up Netlify deployment via GitHub integration for `kennithnichol-site1
+- Build succeeded using Hugo (PaperMod Theme)
+- Needed to specify HUGO_VERSION env var to get build to pass
+- Site is live at https://kennithnichol.netlify.app/
+- Prepared for using `kennithnichol.com` as custom domain w/ HTTPS
+
+## 2025-06-24 - Portfolio Site Progress
+
+- Refined homepage content using `_index.md`
+- Created "About" and "Hire Me" pages, wired into nav
+- Verified site structure and nav behaviour on Netlify
+- Added `.gitignore` to ignore `public/` and other build artifacts
+- Switched domain over to `kennithnichol.com`, DNS has propagated.
+
